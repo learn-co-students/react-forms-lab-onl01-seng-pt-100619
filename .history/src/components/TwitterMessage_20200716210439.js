@@ -1,3 +1,4 @@
+import React from "react";
 
 // class TwitterMessage extends React.Component {
 //   constructor() {
@@ -55,3 +56,4 @@ class TwitterMessage extends React.Component {
 
 export default TwitterMessage;
 
+export default TwitterMessage;
